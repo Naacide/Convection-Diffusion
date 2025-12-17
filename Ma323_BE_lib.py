@@ -8,7 +8,7 @@ resolution of:
     - the 1D convection–diffusion equation
 
 
-@author: Naacide
+@author: Nathan_AZO
 """
 
 from __future__ import annotations
