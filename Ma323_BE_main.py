@@ -14,7 +14,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from typing import List, Tuple
 
-from Ma323_BE_lib_2 import (
+from Ma323_BE_lib import (
     gaussian_initial_condition,
     sol_exact,
     Conv1D_schemaC,
