@@ -6,7 +6,8 @@ This script runs numerical experiments associated with the MA323 practical work.
 It compares different finite difference schemes with the exact solution and
 illustrates the influence of diffusion and boundary conditions.
 
-@author: Naacide
+
+@author: Nathan_AZO
 """
 
 import numpy as np
